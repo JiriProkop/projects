@@ -4,6 +4,10 @@ Hi, I am Jiří Prokop currently enrolled in 2nd year of bachelor's degree at Un
 
 Here are some of the projects I worked on:
 
+## Interpret
+The goal was to create an interpret for the assigned language. First it's parsed with [parser.php](interpret/parse.php) into a xml structure. 
+[interpret.py](interpret/interpret.py) then loads it and starts the execution.
+
 ## IJC - du1
 
 Our assignment was to create a program which would could within short period of time find up 3 milion prime numbers and then efficiently store them in bitfield. 
