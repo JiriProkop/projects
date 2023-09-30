@@ -1,6 +1,6 @@
 # My projects
 
-Hi, I am Jiří Prokop currently enrolled in 2nd year of bachelor's degree at University of technology - Faculty of Information technology(also known as VUT FIT).
+Hi, I am Jiří Prokop currently enrolled in 3rd year of bachelor's degree at University of technology - Faculty of Information technology(also known as VUT FIT).
 
 Here are some of the projects I worked on:
 
